@@ -8,10 +8,9 @@ This is a back-end application for an ecommerce website. It allows the addition 
 
 
 ## Installation: 
-1.  Have Node.js downloaded
-2. run `npm install` 
-3. from mysql run: `source db/schema.sql`
-4. start server to load schema with: `npm start`
+1. Run `npm install`
+2. From mysql run: `source db/schema.sql` 
+3. Start server to load schema with: `npm start`
 
 
 ## Usage:
